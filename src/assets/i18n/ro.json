@@ -94,7 +94,7 @@
     "add": {
       "title": "Titlu document",
       "number": "Numărul documentului",
-      "initiator": "Initiator",
+      "initiator": "Inițiator",
       "type": {
         "name": "Tip de document",
         "OUG": "Ordonanță de urgență",
@@ -104,11 +104,37 @@
       "release": "Data eliberării",
       "receiving": "Data primirii",
       "file": "Incarcă documentul"
+    },
+    "view": {
+      "name": "Nume document",
+      "initiator": "Inițiator",
+      "date": "Data elaborării",
+      "type": "Tip document",
+      "status": "Status",
+      "download": "Descarcă document",
+      "search": "Caută în document",
+      "section": {
+        "type": {
+          "document": "Document",
+          "chapter": "Capitolul",
+          "section": "Secțiunea",
+          "article": "Art."
+        }
+      }
     }
   },
   "table": {
     "sort": {
       "title": "Sortează după"
     }
+  },
+  "header": {
+    "profile": "Profil",
+    "login": "Log in",
+    "logout": "Deconectare",
+    "about": "Despre",
+    "consultation": "In consultare",
+    "archive": "Arhiva",
+    "members": "Membri"
   }
 }
